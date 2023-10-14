@@ -23,6 +23,7 @@
         Margin="300, 300, 300,50">
 
         </Button>
+        <TextBlock Height="50" Width="200" VerticalAlignment="Bottom" FontSize="20" TextAlignment="Center">Rất là cồng kềnh</TextBlock> 
     </Grid>
 
 </Window>
