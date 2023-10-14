@@ -21,7 +21,7 @@
         <Button x:Name="btn1" 
         Content="1"
         FontSize="50" 
-        Margin="300, 300, 300,50">
+        Margin="300, 150, 300,200">
 
         </Button>
     </Grid>
